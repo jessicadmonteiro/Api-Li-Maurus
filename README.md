@@ -1,24 +1,36 @@
-# json-server-base
+<h1 align="center">
+  <img alt="KenzieHub" title="KenzieHub" src="https://kenzie.com.br/images/logoblue.svg" width="100px" />
+</h1>
 
-Esse é o repositório com a base de JSON-Server + JSON-Server-Auth já configurada, feita para ser usada no desenvolvimento das API's nos Projetos Front-end.
+<!-- <h1 align="center">
+  Kenzie Hub - API
+</h1>
 
-## Endpoints
+<p align = "center">
+Este é o backend da aplicação KenzieHub - Um hub de portfólios de programadores daqui da Kenzie! O objetivo dessa aplicação é conseguir criar um frontend de qualidade em grupo, utilizando o que foi ensinado no segundo módulo do curso (Q2) - E desenvolver hard skills e soft skills.
+</p>
 
-Assim como a documentação do JSON-Server-Auth traz (https://www.npmjs.com/package/json-server-auth), existem 3 endpoints que podem ser utilizados para cadastro e 2 endpoints que podem ser usados para login.
+<blockquote align="center">“Sempre passar o que você aprendeu. - Mestre Yoda”</blockquote>
 
-### Cadastro
+<p align="center">
+  <a href="#endpoints">Endpoints</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p> -->
 
-POST /register <br/>
-POST /signup <br/>
-POST /users
+## **Endpoints**
 
-Qualquer um desses 3 endpoints irá cadastrar o usuário na lista de "Users", sendo que os campos obrigatórios são os de email e password.
-Você pode ficar a vontade para adicionar qualquer outra propriedade no corpo do cadastro dos usuários.
+<!-- A API tem um total de 13 endpoints, sendo em volta principalmente do usuário (dev) - podendo cadastrar seu perfil, tecnologias que estuda e trabalhos realizados. <br/> -->
 
+<a style="display:flex; justify-content:center" href="https://insomnia.rest/run/?label=Li-Marus&uri=https%3A%2F%2Fgithub.com%2FKenzie-Academy-Brasil-Developers%2Fkenziehub-api%2Fblob%2Fmain%2Finsominia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 
-### Login
+<!-- <blockquote> Para importar o JSON no Insomnia é só clicar no botão "Run in Insomnia". Depois é só seguir os passos que ele irá importar todos os endpoints em seu insomnia.
+</blockquote>
+<br>
 
-POST /login <br/>
-POST /signin
+A url base da API é https://kenziehub.herokuapp.com
 
-Qualquer um desses 2 endpoints pode ser usado para realizar login com um dos usuários cadastrados na lista de "Users"
+## Rotas que não precisam de autenticação
+
+<h2 align ='center'> Listando usuários </h2>
+
+Nessa aplicação o usuário sem fazer login ou se cadastrar pode ver os devs já cadastrados na plataforma, na API podemos acessar a lista dessa forma:
+Aqui conseguimos ver os usuários, suas tecnologias e seus trabalhos cadastrados. -->
