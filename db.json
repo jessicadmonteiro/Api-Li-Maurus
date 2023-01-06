@@ -1,0 +1,91 @@
+{
+  "users": [
+    {
+      "email": "kenzinho@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Kenzinho",
+      "age": 38,
+      "id": 1
+    },
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$RBb6syvAZWkJjqmAVYZGmOr0LSSCbDjgnyMNtFIN1E1AJ99V1lfyy",
+      "firstname": "Olivier",
+      "lastname": "Monge",
+      "age": 32,
+      "id": 2
+    },
+    {
+      "email": "olivier1@mail.com",
+      "password": "$2a$10$zh6.Ow3QQqCri8iNxcoFXeZZFB5tvLhViZhvlUaeLo6lZh2kA0say",
+      "firstname": "Olivier",
+      "lastname": "Monge",
+      "age": 32,
+      "id": 3
+    },
+    {
+      "email": "paulista@gmail.com",
+      "password": "$2a$10$Y2sIe.ksKKJixF2pe8zu7.LbJRueLkYBV8oAWBG1OeF6su4dJ9pKC",
+      "firstname": "Lucas",
+      "lastname": "Benedito",
+      "age": 32,
+      "id": 4
+    },
+    {
+      "email": "paulista@gmil.com",
+      "password": "$2a$10$YVTfrtEwgmA0Fi3dll17PucJCbSrLYtXTLjQ0LtmopGdbqfDc6yOi",
+      "firstname": "Lucas",
+      "lastname": "Benedito",
+      "age": 32,
+      "id": 5
+    },
+    {
+      "email": "paulista@gaqmil.com",
+      "password": "$2a$10$Lxvm5n7zmw8o66msAOBzBOTdgqocrRuF8rwD902kTfw3YD.SVOhLS",
+      "id": 6
+    },
+    {
+      "email": "olivier12@mail.com",
+      "password": "$2a$10$3zhGiYADtF.OEx6npOn5wugIqlTM.6dDjdkDeS6uI9leEL.FK6m8C",
+      "firstname": "Lucas",
+      "lastname": "Benedito",
+      "age": "90",
+      "id": 7
+    },
+    {
+      "email": "paulista14@gmail.com",
+      "password": "$2a$10$LJaN5R9.tVpcPP.SM70G9.TuWNHBMkn0GJEjyUMQhA0/Jtow0epLm",
+      "id": 8
+    },
+    {
+      "email": "paulista121212@gmail.com",
+      "password": "$2a$10$9.CFLwhI700zCJVmEWLofONGubzi4cIB81adORDL1oUDrSIV1UhFu",
+      "age": "19",
+      "id": 9
+    },
+    {
+      "email": "paulista@gmail.com5454",
+      "password": "$2a$10$TaHBUzIk8a/LMq1EkuVLb.DYOgH1uBT6DkQhLHX9qAfd8AROH11sa",
+      "id": 10
+    },
+    {
+      "email": "paulista144444@gaqmil.com",
+      "password": "$2a$10$bJ3zNHEWJEeWH/CbpSed4.uKGCTkDA/prMkW71XmL7STpTAwyNE0C",
+      "batatinha": "Pelé joga no vasco da Gama",
+      "id": 11
+    },
+    {
+      "email": "paulista@gmail.com32323",
+      "password": "$2a$10$jqssXqISRA7Gdy0f1MhUFOffd6pvFyTCyHhQHFErvIcd1ZTWJ0k0a",
+      "id": 12
+    }
+  ],
+  "livros": [
+    {
+      "nome": "Lucas"
+    },
+    {
+      "nome": "Osvaldo"
+    }
+  ]
+}
